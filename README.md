@@ -7,4 +7,5 @@
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Obsidian%20-%20lib?style=plastic&logo=Obsidian&logoColor=purple&label=lib&labelColor=black&color=purple&link=https%3A%2F%2Fobsidian.md%2F">
 <img alt="Static Badge" src="https://img.shields.io/badge/MIT%20-%20License?style=plastic&logo=MIT&logoColor=orange&label=License&labelColor=black&color=orange">
+<img alt="Static Badge" src="https://img.shields.io/badge/Finished%20-%20Status?style=plastic&logoSize=500&label=Status">
 </p>
