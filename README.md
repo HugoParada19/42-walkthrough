@@ -1,4 +1,4 @@
-<p align="center"><img src="ftl.png" alt="42 logo" width="42" height="42"/></p>
+<p align="center"><img src="ftl.png" alt="42 logo" width="25%" height="25%"/></p>
 
 <h1 align="center">42 Walkthrough</h1>
 
