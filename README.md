@@ -1,3 +1,5 @@
+<p align="center"><img src="ftl.png" alt="42 logo"/></p>
+
 <h1 align="center">42 Walkthrough</h1>
 
 <p align="center"><b><i>By Hugo Parada - Intra:<a href="https://profile.intra.42.fr/users/htrindad">htrindad</a></i></b></p>
